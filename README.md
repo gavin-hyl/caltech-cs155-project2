@@ -2,6 +2,8 @@
 
 A comprehensive machine learning project implementing collaborative filtering algorithms and data analysis techniques on the MovieLens dataset for movie recommendation systems.
 
+Final grade: A+
+
 ## Overview
 
 This project explores various approaches to movie recommendation through collaborative filtering, matrix factorization, and data visualization techniques. Built for Caltech's CS 155 (Machine Learning) course, it demonstrates fundamental concepts in recommendation systems, dimensionality reduction, and large-scale data analysis.
